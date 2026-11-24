@@ -1,0 +1,3 @@
+# Deliberately minimal: Django + the MySQL driver. No DRF, no Celery/Redis, no Node build step.
+Django>=5.2.8,<6.0
+mysqlclient>=2.2

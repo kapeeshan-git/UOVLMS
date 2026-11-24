@@ -1,5 +1,0 @@
-accession_number,title,isbn,authors,category_code,call_number,publisher,year,collection_code,shelf_location
-B-000001,Software Engineering,9780133943030,Ian Sommerville,CS,CS 005.1,Pearson,2015,LEND,Row 6
-B-000002,Computer Graphics: Principles and Practice,,James D. Foley;Andries van Dam,CS,CS 006.6,Addison-Wesley,2013,LEND,Row 6
-B-000003,,,,CS,CS 007,,abc,LEND,Row 6
-B-000004,Statistics for Business,,David M. Levine,BUS,BUS 519.5,Pearson,2017,NOPE,Row 7
